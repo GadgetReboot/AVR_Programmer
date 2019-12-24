@@ -1,0 +1,27 @@
+								
+								
+								
+								
+			Ref. Des.	Qty	Value	Description	Manufacturer Example	P/N Example
+			C1, C3, C4	3	4.7uF	CAP CER 4.7UF >=16V X7R 0805	Murata	GRM21BR71C475KE51L
+			C2, C5-C8	5	100nF	CAP CER 0.1UF >=16V X7R 0805	Murata	GCM21BR71H104KA37K
+			D1	1	SK35	DIODE SCHOTTKY 50V 3A SMA	Micro Commercial	SK35A-TP
+			D2-D6	5	LED	LED SMD 0603 	 	 
+			F1	1	PTC	PTC RESET FUSE 6V 500MA 0603	Bourns	MF-FSMF050X-2
+			J1, J2	2	1x12 	Header 1x12 female 2.54mm pitch		 
+			J3, J4	2	1x5	Header 1x5 female 2.54mm pitch		 
+			J5	1	1x4	Header 1x4 female 2.54mm pitch		 
+			L1	1	22uH	IND 22UH 1.9A SMD (can be 10uH or more, size 5x5mm or so)	Pulse	CDTH3D14/HPNP-100NC
+			Q1	1	BSS138	MOSFET N-CH 50V 220MA SOT-23	On Semi	BSS138
+			Q2	1	MMBT3906	PNP 40V 0.2A SOT-23	On Semi	MMBT3906
+			Q3	1	MMBT3904	NPN 40V 0.2A SOT-23	On Semi	MMBT3904
+			Q4	1	BSS83P	MOSFET P-CH 60V 0.33A SOT23	Infineon	BSS83PH6327XTSA1
+			R1, R4, R8, R11, R13	5	91K	RES SMD 91K OHM 1% 1/8W 0805	Panasonic	ERJ-6ENF9102V
+			R2	1	16K	RES SMD 16K OHM 1% 1/8W 0805	Panasonic	ERJ-6ENF1602V
+			R3	1	30K	RES SMD 30K OHM 1% 1/8W 0805	Panasonic	ERJ-6ENF3002V
+			R6	1	2K	RES SMD 2K OHM 1% 1/8W 0805 (can be >1%)	Panasonic	ERJ-6ENF2001V
+			R5, R7, R9, R10, R12	5	10K	RES SMD 10K OHM 1% 1/8W 0805 (can be >1%)	Panasonic	ERJ-6ENF1002V
+			R14	1	56K	RES SMD 56K OHM 1% 1/8W 0805	Panasonic	ERJ-6ENF5602V
+			R15-R19	5	1K	RES SMD 1K OHM 1% 1/8W 0805 (can be >1%)	Panasonic	ERJ-6ENF1001V
+			SW1	1	Rotary Enc	Alps EC11E series Rotary Encoder with Push Switch	Alps	EC11E*
+			U1	1	AP3012	IC REG BOOST ADJ 500MA SOT23-5	Diodes Inc	AP3012KTR-G1
